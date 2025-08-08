@@ -32,8 +32,7 @@ Currently working as a **Full-Stack Intern at Pure Logics** and building project
 
 ## 📫 Connect with Me  
 - **GitHub:** [shahmeer7008](https://github.com/shahmeer7008)  
-- **LinkedIn:** *(Add your LinkedIn link here)*  
-- **Fiverr:** *(Add your Fiverr link here)*  
+- **LinkedIn:** (https://www.linkedin.com/in/m-shahmeer-zaidi/) 
 
 ---
 
